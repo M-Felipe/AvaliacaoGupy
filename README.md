@@ -1,5 +1,5 @@
 
-# Project Title
+# Avaliação
 
 Avaliação 2 - Criei uma função em javascript que verifica se o numero faz parte da da sequencia de fibonacci, usando while e iniciando com os dois primeiros digitos da sequencia
 
